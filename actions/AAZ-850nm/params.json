@@ -1,0 +1,23 @@
+{
+    "category": "plugins",
+    "display": "Remove diacritics",
+    "fields": {
+        "AAY": {
+            "caption": "input",
+            "doc": "Text to update",
+            "editor": "DynamicValue",
+            "name": "input",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAE": {
+            "caption": "output",
+            "name": "output",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side"
+}

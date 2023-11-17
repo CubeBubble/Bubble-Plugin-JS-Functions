@@ -1,0 +1,21 @@
+{
+    "caption": "Parse Json",
+    "doc": "Parse a Json object from a text field and returns the value of given keys",
+    "fields": {
+        "AAP": {
+            "caption": "Input",
+            "editor": "DynamicValue",
+            "name": "input",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "Keys",
+            "doc": "Keys to return (ex: key1 : name, key2 : id)",
+            "editor": "key_value_list",
+            "name": "keys",
+            "rank": 1,
+            "value": "text"
+        }
+    }
+}

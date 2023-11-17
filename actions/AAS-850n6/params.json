@@ -1,0 +1,24 @@
+{
+    "category": "plugins",
+    "display": "Calculate distances",
+    "fields": {
+        "AAT": {
+            "caption": "Coordinates",
+            "doc": "list coordinates formatted as { \"latitude\": 48.832909, \"longitude\": 2.385283 } ",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "coordinates",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAU": {
+            "caption": "Total Distance",
+            "name": "total_distance",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "type": "server_side"
+}

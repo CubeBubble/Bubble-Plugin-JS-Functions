@@ -1,0 +1,24 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "Js Element",
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "resizable": true
+    },
+    "states": {
+        "AAR": {
+            "caption": "ParsedJson",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "is_list": true,
+            "name": "parsedjson",
+            "value": "text"
+        }
+    }
+}

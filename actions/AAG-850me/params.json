@@ -1,0 +1,22 @@
+{
+    "category": "plugins",
+    "display": "Get Date",
+    "fields": {
+        "AAH": {
+            "caption": "input",
+            "editor": "DynamicValue",
+            "name": "input",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAI": {
+            "caption": "output",
+            "name": "output",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "type": "server_side"
+}

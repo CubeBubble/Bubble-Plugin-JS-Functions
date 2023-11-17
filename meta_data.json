@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity",
+        "2": "data (things)",
+        "3": "small business"
+    },
+    "description": "Some useful ready-to-use javascript functions",
+    "image": "//s3.amazonaws.com/appforest_uf/f1631630720959x859665697620155300/js%20logo.png",
+    "license": "open_source",
+    "name": "JS Functions",
+    "sa_node_version": 18
+}

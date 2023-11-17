@@ -1,0 +1,22 @@
+{
+    "category": "plugins",
+    "display": "Get Age",
+    "fields": {
+        "AAL": {
+            "caption": "Birthdate",
+            "editor": "DynamicValue",
+            "name": "birthdate",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "return_value": {
+        "AAK": {
+            "caption": "Age",
+            "name": "age",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "type": "server_side"
+}
